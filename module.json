@@ -1,0 +1,12 @@
+{
+  "id": "pcl.ui.setup",
+  "name": "PCL 设置页",
+  "version": "0.1.0",
+  "assembly": "PCL.UI.Setup.dll",
+  "entry": "PCL.UI.Setup.Module",
+  "dependencies": [ "pcl.core", "pcl.theme", "pcl.ui.controls" ],
+  "loadPriority": 100,
+  "author": "150311-ma",
+  "description": "启动设置、界面设置、联机设置、关于页面。",
+  "tags": [ "ui" ]
+}
